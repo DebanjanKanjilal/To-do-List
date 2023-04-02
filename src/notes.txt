@@ -1,0 +1,15 @@
+index.html -(entry point)
+    ^
+    |
+app.component.ts -(connector)
+     |
+     |-app.component.html(structure)
+     |                   \
+     |-app.component.css  \
+        (styling)          \
+                           can be connected to other component's .ts files...in this case its todos.component.ts
+
+
+
+
+
